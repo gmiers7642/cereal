@@ -1,6 +1,6 @@
 pandas
 numpy
-sklearn
+sklearn==0.21.1
 matplotlib
 xlrd 
 seaborn==0.8.1
