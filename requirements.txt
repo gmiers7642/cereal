@@ -1,8 +1,6 @@
-pandas==0.23.0
-numpy==1.14.4
+pandas
+numpy
 sklearn
-matplotlib==2.2.2 
-nltk
-scipy
+matplotlib
 xlrd 
 seaborn==0.8.1
